@@ -1,0 +1,19 @@
+process1 2
+0 1
+A 3
+
+process2 3
+3 1
+A 4
+
+process3 2
+5 1
+A 6
+
+process4 2
+15 1
+A 7
+
+process5 3
+15 1
+A 5
